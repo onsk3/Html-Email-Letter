@@ -93,7 +93,7 @@ body, html {
 				<tbody>
 					<tr>
 						<td width="40%"style="text-align:left;">--Email/User</td>
-						<td width="60%" style="color:#ffffff;text-align:left;">{email}</td>
+						<td width="60%" style="color:#ffffff;text-align:left;">{email}{username}</td>
 					</tr>
 					<tr>
 						<td width="40%"style="text-align:left;">--Password</td>
