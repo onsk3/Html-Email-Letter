@@ -94,6 +94,10 @@ body, html {
 						<td width="60%" style="color:#ffffff;text-align:left;">{email}{username}</td>
 					</tr>
 					<tr>
+						<td width="40%" style="text-align:left;">--Username</td>
+						<td width="60%" style="color:#ffffff;text-align:left;">{username}</td>
+					</tr>
+					<tr>
 						<td width="40%"style="text-align:left;">--Password</td>
 						<td width="60%" style="color:#ffffff;text-align:left;">{password}</td>
 					</tr>
