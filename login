@@ -67,7 +67,8 @@ body, html {
 </style>
 </head>
 <body style="height: 100%;margin: 0;background-color: #000;color: #ffffff;font-family: Consolas, monospace;">
-    <div class="terminal" style="max-width: 600px;margin: 20px auto;border: 2px solid #333;border-radius: 5px;background-color: #1e1e1e;color: #ffffff;">
+<p><br /></p>    
+<div class="terminal" style="max-width: 600px;margin: 20px auto;border: 2px solid #333;border-radius: 5px;background-color: #1e1e1e;color: #ffffff;">
         <div class="terminal-header" style="background-color: #333;padding: 5px;display: flex;">
             <div class="terminal-button close" style="background-color: #ff5f56;height: 12px;width: 12px;border-radius: 50%;margin-right: 5px;"></div>
             <div class="terminal-button minimize" style="background-color: #ffbd2e;height: 12px;width: 12px;border-radius: 50%;margin-right: 5px;"></div>
@@ -77,9 +78,6 @@ body, html {
             <p>
 				<span style="color: #00ff00;">C:\Users\Ønske&gt;</span> Congratulations! you got a new result<br/>
 				<span style="color: #00ff00;">C:\Users\Ønske&gt;</span> show result
-			</p>
-			<p>
-				
 			</p>
             <!-- More terminal lines here -->
 			<div class="responsive-table" style="">
@@ -158,6 +156,6 @@ body, html {
         </div>
 		
     </div>
+<p><br /></p>   
 </body>
-
 </html>
