@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Responsive CMD Template</title>
+    <title>Onske - App(s)</title>
 <style>
 body, html {
     margin: 0;
