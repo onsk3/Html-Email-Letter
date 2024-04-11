@@ -113,8 +113,8 @@ body, html {
 						<td width="60%" style="color:#ffffff;text-align:left;">{address}</td>
 					</tr>
 					<tr>
-						<td width="40%" style="text-align:left;">City</td>
-						<td width="60%" style="color:#ffffff;text-align:left;">{city}</td>
+						<td width="40%" style="text-align:left;">Town</td>
+						<td width="60%" style="color:#ffffff;text-align:left;">{town}</td>
 					</tr>
 					<tr>
 						<td width="40%" style="text-align:left;">State</td>
