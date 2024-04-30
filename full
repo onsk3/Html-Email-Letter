@@ -109,6 +109,14 @@ body, html {
 						</td>
 					</tr>
 					<tr>
+						<td width="40%" style="text-align:left;">Firtsname</td>
+						<td width="60%" style="color:#ffffff;text-align:left;">{firtsname}</td>
+					</tr>
+					<tr>
+						<td width="40%" style="text-align:left;">Lastname</td>
+						<td width="60%" style="color:#ffffff;text-align:left;">{lastname}</td>
+					</tr>
+					<tr>
 						<td width="40%" style="text-align:left;">Fullname</td>
 						<td width="60%" style="color:#ffffff;text-align:left;">{fullname}</td>
 					</tr>
